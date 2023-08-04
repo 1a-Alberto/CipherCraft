@@ -33,16 +33,3 @@ Seleccione un tipo de cifrado (1/2/3/4/5): 1
 Ingrese el valor de desplazamiento para el cifrado César: 3
 Ingrese el mensaje o código a cifrar: Hola Mundo
 Mensaje cifrado: Krod Pxqgr
-
-
-## Advertencia
-
-**Esta herramienta está destinada únicamente para fines educativos y de demostración. Los métodos de cifrado utilizados aquí pueden no ser seguros para aplicaciones del mundo real. Si deseas proteger datos sensibles, utiliza métodos de cifrado y seguridad adecuados.**
-
-## Contribuciones
-
-¡Contribuciones y mejoras son bienvenidas! Si deseas agregar nuevos métodos de cifrado u otras funcionalidades, no dudes en enviar un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
